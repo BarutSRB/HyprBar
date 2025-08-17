@@ -1,0 +1,46 @@
+# Compiled binaries
+helpers/event_providers/*/bin/
+helpers/menus/bin/
+helpers/bin/
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.log
+
+# User-specific configuration backups
+config.lua.backup
+config.lua.local
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.dSYM/
+
+# Cache files
+__pycache__/
+*.py[cod]
+*$py.class
