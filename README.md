@@ -3,7 +3,6 @@
 A powerful, modular, and visually stunning SketchyBar configuration for macOS, featuring real-time system monitoring, media controls, and seamless integration with window managers.
 
 ![SketchyBar Preview](screenshot/preview.png)
-*Screenshot placeholder - Add your own screenshot here*
 
 ## ✨ Features
 
@@ -35,14 +34,14 @@ A powerful, modular, and visually stunning SketchyBar configuration for macOS, f
 ### One-Line Installation
 
 ```bash
-git clone https://github.com/yourusername/sketchybar-config ~/.config/sketchybar && cd ~/.config/sketchybar && ./install.sh
+git clone https://github.com/BarutSRB/HyprBar ~/.config/sketchybar && cd ~/.config/sketchybar && ./install.sh
 ```
 
 ### Manual Installation
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/sketchybar-config ~/.config/sketchybar
+git clone https://github.com/BarutSRB/HyprBar ~/.config/sketchybar
 cd ~/.config/sketchybar
 ```
 
@@ -169,14 +168,6 @@ View SketchyBar logs:
 ```bash
 tail -f /tmp/sketchybar_*.out
 ```
-
-## 📚 Documentation
-
-For detailed documentation, see [CLAUDE.md](CLAUDE.md) which includes:
-- Architecture overview
-- Development workflow
-- API patterns
-- Advanced customization
 
 ## 🤝 Contributing
 

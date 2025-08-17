@@ -50,13 +50,6 @@ M.update_intervals = {
 -- Change this if your network interface is different
 M.network_interface = "en0"
 
--- Weather Configuration
-M.weather = {
-  -- Add your weather API key and location here if using a weather service
-  -- api_key = "your_api_key",
-  -- location = "your_location",
-}
-
 -- Auto-detect laptop and enable battery
 if M.device_type == "laptop" then
   M.widgets.battery = true

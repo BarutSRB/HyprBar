@@ -352,7 +352,6 @@ main() {
     echo
     echo "For troubleshooting, check:"
     echo "  • Logs: tail -f /tmp/sketchybar_*.out"
-    echo "  • Docs: $SKETCHYBAR_CONFIG_DIR/CLAUDE.md"
 }
 
 # Run main installation
